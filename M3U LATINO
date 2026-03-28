@@ -1,0 +1,359 @@
+#EXTM3U
+gato ~/IPTV/pluto.m3u \
+~/IPTV/samsung.m3u \
+~/IPTV/stirr.m3u \
+~/IPTV/niños.m3u \
+~/IPTV/animación.m3u \
+~/IPTV/familia.m3u \
+~/IPTV/español.m3u \
+~/IPTV/méxico.m3u \
+~/IPTV/deportes.m3u \
+~/IPTV/big.m3u > ~/IPTV/todos los canales.m3u
+ 
+Fox Sports México
+https://n9.cl/iowvz
+ 
+TUDN México
+https://n9.cl/k2nsl
+ 
+ESPN Argentina
+https://n9.cl/b6j6s
+
+Telefe noticia
+https://www.youtube.com/live/XhAYcYpPzTc?si=nWdTWqoZVoiTxks0
+
+C24
+https://www.youtube.com/live/ArKbAx1K-2U?si=Jhn3oEXpHLD-r0ra
+
+C5N
+https://www.youtube.com/live/SF06Qy1Ct6Y?si=7jiM8XchyYKKaajc
+
+Crónica
+https://www.youtube.com/live/JC7f3EUDaqw?si=orVwIDABdgfD7VB4
+
+ESPN Premium Argentina
+https://n9.cl/h5bpc5
+ 
+Estrella TV
+https://n9.cl/jqjp9
+ 
+El canal del tiempo
+https://n9.cl/gg63t
+ 
+Zona de negociación (Cazadores de Tesoros/American Pickers)
+https://n9.cl/4k8ay
+ 
+Siempre divertido (Los vídeos más divertidos de Estados Unidos)
+https://n9.cl/kpkugt
+ 
+Esta vieja casa
+https://n9.cl/yu2wk
+ 
+Nación hecha en casa
+https://n9.cl/fxke0p
+ 
+a+ Guate
+https://n9.cl/17k1s
+ 
+Banda de televisión gratuita
+https://n9.cl/7a8xd
+ 
+Hip hop WMX
+https://n9.cl/pi6me
+ 
+Éxitos latinos de iHeart
+https://n9.cl/jmo0z
+ 
+Telemundo 40
+https://n9.cl/jae5vn
+ 
+FreeTV Sureño
+https://n9.cl/rcqub
+ 
+Euronews en español
+https://n9.cl/et2q2b
+ 
+FreeTV en vivo
+https://n9.cl/0t8ui
+ 
+Terror en FreeTV
+https://n9.cl/m9owhw
+ 
+FreeTV Familia
+https://n9.cl/rfeau
+ 
+Real Madrid TV
+https://n9.cl/i8d35w
+ 
+Acción de FreeTV
+https://n9.cl/x0ve1r
+ 
+Televisión gratuita Estelar
+https://n9.cl/17c9q
+ 
+Éxitos del K-Pop
+https://n9.cl/g6zm4
+ 
+Canal 6 Multimedios Monterrey
+https://n9.cl/6i2do5
+ 
+a+Más CDMX
+https://n9.cl/gdi7ux
+ 
+PlutoTV_HL
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_AR.m3u
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_CA.m3u
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_CL.m3u
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_DE.m3u
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_ES.m3u
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_FR.m3u
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_GB.m3u
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_US.m3u
+ 
+RakutenTV_HL
+https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/refs/heads/main/tv/m3u/RakutenTV_tv.m3u
+ 
+Tiempo de ejecución TV_HL
+https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u
+ 
+Samsung TV Plus_HL
+https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/tv/m3u/SamsungTVPlus_tv_AT.m3u
+https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/tv/m3u/SamsungTVPlus_tv_CA.m3u
+https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/tv/m3u/SamsungTVPlus_tv_CH.m3u
+https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/tv/m3u/SamsungTVPlus_tv_DE.m3u
+https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/tv/m3u/SamsungTVPlus_tv_ES.m3u
+https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/tv/m3u/SamsungTVPlus_tv_FR.m3u
+https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/tv/m3u/SamsungTVPlus_tv_GB.m3u
+https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/tv/m3u/SamsungTVPlus_tv_IN.m3u
+https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/tv/m3u/SamsungTVPlus_tv_IT.m3u
+https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/tv/m3u/SamsungTVPlus_tv_KR.m3u
+https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/tv/m3u/SamsungTVPlus_tv_US.m3u
+ 
+CanelaTV_HL
+https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/refs/heads/main/tv/m3u/CanelaTV_tv.m3u
+ 
+RadTV_HL
+https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/refs/heads/main/tv/m3u/RadTV_tv.m3u
+ 
+Canales TDTChannels
+https://www.tdtchannels.com/lists/tv.m3u
+ 
+Estados Unidos
+https://iptv-org.github.io/iptv/countries/us.m3u
+ 
+México
+https://iptv-org.github.io/iptv/countries/mx.m3u
+ 
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/epg/mx.xml.gz
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/epg/us.xml.gz
+https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/refs/heads/main/epg/RakutenTV.xml.gz
+https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/epg/RuntimeTV.xml.gz
+https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/refs/heads/main/epg/CanelaTV.xml.gz
+ 
+ 
+https://gitlab.com/jillhart/jill_s_cinema/-/raw/master/Andy_s_Cloud.zip
+https://gitlab.com/jillhart/jill_s_cinema/-/raw/master/Diego_s_Cloud.zip
+https://gitlab.com/jillhart/jill_s_cinema/-/raw/master/Drew_Klein.zip
+https://gitlab.com/jillhart/jill_s_cinema/-/raw/master/Guilherme_Cloud.zip
+https://gitlab.com/jillhart/jill_s_cinema/-/raw/master/Jill's%20cinema_20190410.zip
+https://gitlab.com/jillhart/jill_s_cinema/-/raw/master/Mabel_Coco.zip
+https://gitlab.com/jillhart/jill_s_cinema/-/raw/master/SA_theater.zip
+https://gitlab.com/jillhart/jill_s_cinema/-/raw/master/El-Hombre-Araña.zip
+https://gitlab.com/jillhart/jill_s_cinema/-/raw/master/Super_Man.zip
+https://gitlab.com/jillhart/jill_s_cinema/-/raw/master/X.zip
+https://gitlab.com/jillhart/jill_s_cinema/-/raw/master/chanel_cloud_20200306091502110_20991231000000000.zip
+https://gitlab.com/jillhart/jill_s_cinema/-/raw/master/decripty_20190513015327538_20991231000000000.zip
+ 
+AyEHD.ar, A&E HD, http://168.232.168.242:4000/play/a00b/index.m3u8
+AMCHD.ar, AMC HD, http://168.232.168.242:4000/play/a00c/index.m3u8
+América2.ar, AMÉRICA TV, http://168.232.168.242:4000/play/a04b/index.m3u8
+AXNHD.ar, AXN HD, http://168.232.168.242:4000/play/a00h/index.m3u8
+Extensión AZ, haga clic en HD, http://168.232.168.242:4000/play/a00i/index.m3u8 
+Azteca7.mx, AZTECA 7, http://168.232.168.242:4000/play/a04s/index.m3u8
+ext,Natación para adultos,http://168.232.168.242:4000/play/a04z/index.m3u8 
+AnimalPlanet.uk, Animal Planet HD, http://168.232.168.242:4000/play/a00d/index.m3u8
+Antena3.ar, Antena 3, http://168.232.168.242:4000/play/a00e/index.m3u8
+ext., Antena 7- RD, http://168.232.168.242:4000/play/a00f/index.m3u8
+AtresSeries.us, Atres Series, http://168.232.168.242:4000/play/a00g/index.m3u8
+AtresSeries.us, Atres Series, http://168.232.168.242:4000/play/a03j/index.m3u8
+AZCorazon.cl, Azcorazon, http://168.232.168.242:4000/play/a00j/index.m3u8
+AZMundo.cl, Azmundo, http://168.232.168.242:4000/play/a00k/index.m3u8
+extensión, BANDAMAX HD, http://168.232.168.242:4000/play/a04i/index.m3u8
+BBCNews.nws, BBC Mundo, http://168.232.168.242:4000/play/a00m/index.m3u8 
+ext.,BUNDESLIGA,http://168.232.168.242:4000/play/a04o/index.m3u8
+BABYFIRST.sp,Bebé Primero,http://168.232.168.242:4000/play/a03p/index.m3u8
+BabyTV.ar, Baby TV, http://168.232.168.242:4000/play/a00l/index.m3u8
+Boomerang.ar, Boomerang, http://168.232.168.242:4000/play/a00n/index.m3u8
+Ext., CABLEMAR TV HD, http://168.232.168.242:4000/play/a04a/index.m3u8
+Ext., CANAL 11 CDN, http://168.232.168.242:4000/play/a005/index.m3u8
+ext.,CANAL 5 HN CDN,http://168.232.168.242:4000/play/a001/index.m3u8
+Canal5HD.mx,CANAL 5 MÉXICO,http://168.232.168.242:4000/play/a04r/index.m3u8 
+ext,DIBUJOS ANIMADOS NT HD,http://168.232.168.242:4000/play/a00p/index.m3u8 
+extensión, CCN, http://168.232.168.242:4000/play/a00q/index.m3u8
+extensión, CERTV, http://168.232.168.242:4000/play/a00r/index.m3u8
+CinecanalHD.ar, CINECANAL HD, http://168.232.168.242:4000/play/a00t/index.m3u8
+CNNInternacional.ar, CNN Internacional, http://168.232.168.242:4000/play/a00v/index.m3u8
+CNNEspanhol.br, CNNE, http://168.232.168.242:4000/play/a00w/index.m3u8
+ext., Canal 11 - GUA, http://168.232.168.242:4000/play/a049/index.m3u8
+ext., Canal 11 - HON, http://168.232.168.242:4000/play/a041/index.m3u8
+Ext., Canal 13-GUA, http://168.232.168.242:4000/play/a04c/index.m3u8
+Ext., Canal 3 - GUA, http://168.232.168.242:4000/play/a04d/index.m3u8
+ext.,Canal 3 Telesistemas HND,http://168.232.168.242:4000/play/a045/index.m3u8
+ext.,Canal 4 - PAN,http://168.232.168.242:4000/play/a00o/index.m3u8
+ext., Canal 5 - HON, http://168.232.168.242:4000/play/a044/index.m3u8
+ext., Canal 8 TNH HN, http://168.232.168.242:4000/play/a04h/index.m3u8
+ext., Canal Antigua - GUA, http://168.232.168.242:4000/play/a04e/index.m3u8
+ext., Canal VTV HND, http://168.232.168.242:4000/play/a046/index.m3u8
+CineLatino.mx, Cine Latino, http://168.232.168.242:4000/play/a00s/index.m3u8
+Cinemax.ar, CineMax, http://168.232.168.242:4000/play/a00u/index.m3u8
+ext., Cine Claro, http://168.232.168.242:4000/play/a04v/index.m3u8 
+extensión,Claro Sports 2 HD,http://168.232.168.242:4000/play/a03h/index.m3u8
+ComedyCentral.uk, Comedy Central HD, http://168.232.168.242:4000/play/a00x/index.m3u8
+Iconcerts.fr,Canal de conciertos,http://168.232.168.242:4000/play/a04y/index.m3u8 
+ext., DEPORTES TVC CDN, http://168.232.168.242:4000/play/a003/index.m3u8
+extensión, DHE, http://168.232.168.242:4000/play/a03f/index.m3u8
+extensión, DHE HD, http://168.232.168.242:4000/play/a00z/index.m3u8
+HDTheater.mx, CINE DISCOVERY HD, http://168.232.168.242:4000/play/a015/index.m3u8
+ext., Deportes TVC - HON, http://168.232.168.242:4000/play/a042/index.m3u8
+extensión,Digital 15 - RD,http://168.232.168.242:4000/play/a00y/index.m3u8
+Discovery.uk, Discovery Channel HD, http://168.232.168.242:4000/play/a010/index.m3u8
+DiscoveryCivilization.ar, Discovery Civilization, http://168.232.168.242:4000/play/a011/index.m3u8
+DiscoveryHomeHealth.ar, Descubrimiento Hogar y Salud, http://168.232.168.242:4000/play/a012/index.m3u8
+DiscoveryID.ar, Discovery ID HD, http://168.232.168.242:4000/play/a013/index.m3u8
+DiscoveryKids.ar, Discovery Kids HD, http://168.232.168.242:4000/play/a03m/index.m3u8
+DiscoveryScience.ar, Discovery Science, http://168.232.168.242:4000/play/a014/index.m3u8
+DiscoveryTurbo.ar, Discovery Turbo, http://168.232.168.242:4000/play/a016/index.m3u8
+DiscoveryWorldHD.ar, Discovery World HD, http://168.232.168.242:4000/play/a017/index.m3u8
+DisneyChannel.ar, Disney, http://168.232.168.242:4000/play/a018/index.m3u8
+DisneyJr.ar, Disney JR, http://168.232.168.242:4000/play/a019/index.m3u8
+DisneyXD.ar, Disney XD, http://168.232.168.242:4000/play/a01a/index.m3u8
+ext., E! Entretenimiento HD, http://168.232.168.242:4000/play/a01b/index.m3u8 
+ESPN.ar, ESPN, http://168.232.168.242:4000/play/a05l/index.m3u8
+ESPN4.br, ESPN 4 HD, http://168.232.168.242:4000/play/a05j/index.m3u8
+ESPN2.ar, ESPN 2, http://168.232.168.242:4000/play/a05m/index.m3u8
+ESPN2HD.ar, ESPN 2 HD, http://168.232.168.242:4000/play/a05q/index.m3u8
+ESPN3SD.ar, ESPN 3, http://168.232.168.242:4000/play/a03t/index.m3u8
+ESPN3HD.ar, ESPN 3 HD, http://168.232.168.242:4000/play/a05g/index.m3u8
+ESPN5.nl, ESPN 5, http://168.232.168.242:4000/play/a05n/index.m3u8
+extensión, ESPN 5 HD, http://168.232.168.242:4000/play/a05o/index.m3u8
+ESPN6.nl, ESPN 6, http://168.232.168.242:4000/play/a05i/index.m3u8
+Extensión, ESPN 6 HD, http://168.232.168.242:4000/play/a05h/index.m3u8
+ESPNHD.ar, ESPN HD, http://168.232.168.242:4000/play/a05e/index.m3u8
+ext.,ESTRELLAS,http://168.232.168.242:4000/play/a04p/index.m3u8
+ext.,Canal EURO,http://168.232.168.242:4000/play/a03r/index.m3u8 
+EWTN.ar,EWTN,http://168.232.168.242:4000/play/a01j/index.m3u8
+ElGourmet.mx,El Gourmet,http://168.232.168.242:4000/play/a053/index.m3u8
+extensión, Europa HD, http://168.232.168.242:4000/play/a01h/index.m3u8
+EXATV.mx,Exa TV,http://168.232.168.242:4000/play/a01i/index.m3u8
+Fox.ar, FOX, http://168.232.168.242:4000/play/a01k/index.m3u8
+FoxActionHD.mx, FOX Action HD, http://168.232.168.242:4000/play/a01l/index.m3u8
+FoxComedy.it, FOX Comedy HD, http://168.232.168.242:4000/play/a01n/index.m3u8
+FoxFamilyE.mx, FOX Family HD, http://168.232.168.242:4000/play/a01o/index.m3u8
+FoxHD.ar, FOX HD, http://168.232.168.242:4000/play/a01p/index.m3u8
+FoxLife.ar, FOX LIFE, http://168.232.168.242:4000/play/a01q/index.m3u8
+FoxMoviesHD.ar, Películas FOX HD, http://168.232.168.242:4000/play/a01s/index.m3u8
+FoxSports3HD.ar,FOX SPORTS 3 HD,http://168.232.168.242:4000/play/a01v/index.m3u8
+extensión, Serie FOX HD, http://168.232.168.242:4000/play/a01r/index.m3u8
+extensión,FUTV CR,http://168.232.168.242:4000/play/a04m/index.m3u8
+FX.ar,FX,http://168.232.168.242:4000/play/a03q/index.m3u8
+FXHD.ar, FX HD, http://168.232.168.242:4000/play/a01w/index.m3u8
+ext, FX Películas HD, http://168.232.168.242:4000/play/a01x/index.m3u8 
+FilmArts.ar, Cine y Artes, http://168.232.168.242:4000/play/a03e/index.m3u8 
+FilmyArtsHD.cl,Cine y artes HD,http://168.232.168.242:4000/play/a057/index.m3u8 
+FoxClassics.mx, Fox Classic HD, http://168.232.168.242:4000/play/a01m/index.m3u8
+Golden.mx, Golden, http://168.232.168.242:4000/play/a01y/index.m3u8
+Extensión, Golden Premiere 2 HD, http://168.232.168.242:4000/play/a056/index.m3u8
+extensión, Golden Premiere HD, http://168.232.168.242:4000/play/a051/index.m3u8
+GolfChannel.fr, Canal de golf, http://168.232.168.242:4000/play/a03k/index.m3u8
+GolfChannel.us, Canal de golf HD, http://168.232.168.242:4000/play/a01z/index.m3u8
+ext.,Guatevisión - GUA,http://168.232.168.242:4000/play/a04x/index.m3u8 
+H2.ar,H2,http://168.232.168.242:4000/play/a020/index.m3u8
+HBOFamilyEste.ar,HBO Familia HD,http://168.232.168.242:4000/play/a021/index.m3u8 
+HBOHD.ar, HBO HD, http://168.232.168.242:4000/play/a022/index.m3u8
+HBOPlusEste.ar, HBO Plus HD, http://168.232.168.242:4000/play/a023/index.m3u8
+Maxprime.br, HBO XTREME, http://168.232.168.242:4000/play/a024/index.m3u8
+HBO2.pl, HBO2 HD, http://168.232.168.242:4000/play/a025/index.m3u8
+extensión, HCH CDN, http://168.232.168.242:4000/play/a004/index.m3u8
+extensión, HCH-HON, http://168.232.168.242:4000/play/a047/index.m3u8
+Extensión: ¡HOLA! Televisión de alta definición, http://168.232.168.242:4000/play/a027/index.m3u8
+HTV.ar, HTV, http://168.232.168.242:4000/play/a03z/index.m3u8
+HistoriaHD.ar, Historia HD, http://168.232.168.242:4000/play/a026/index.m3u8 
+ext.,Hola! TV,http://168.232.168.242:4000/play/a03i/index.m3u8 
+HomeyHealthHD.cl,Hogar y Salud HD,http://168.232.168.242:4000/play/a028/index.m3u8 
+ext., Hogar Jardín Latino, http://168.232.168.242:4000/play/a055/index.m3u8
+BeINLaLiga.es, LA LIGA, http://168.232.168.242:4000/play/a04n/index.m3u8
+Lifetime.br, TIEMPO DE VIDA, http://168.232.168.242:4000/play/a029/index.m3u8
+ext, Deportes en Latinoamérica, http://168.232.168.242:4000/play/a03w/index.m3u8
+extensión, MASTV - PAN, http://168.232.168.242:4000/play/a02b/index.m3u8
+MTV00s.eu,MTV 00s,http://168.232.168.242:4000/play/a03y/index.m3u8
+MTVHD.ar,MTV HD,http://168.232.168.242:4000/play/a02c/index.m3u8
+MTVHits.ar, Éxitos de MTV, http://168.232.168.242:4000/play/a02d/index.m3u8
+extensión, MTV SIM HD, http://168.232.168.242:4000/play/a02e/index.m3u8
+MasChic.ar, Más Chic, http://168.232.168.242:4000/play/a02a/index.m3u8
+Multicinema.mx,Multicinema,http://168.232.168.242:4000/play/a040/index.m3u8
+MultimediosMonterrey.mx,Multimedios,http://168.232.168.242:4000/play/a058/index.m3u8
+Multipremier.mx,Multipremier,http://168.232.168.242:4000/play/a02f/index.m3u8
+NatgeoWildHD.ar, Nat Geo HD, http://168.232.168.242:4000/play/a02g/index.m3u8
+Extensión, Nat Geo Kids, http://168.232.168.242:4000/play/a02h/index.m3u8
+NationalGeographic.ar, National Geographic, http://168.232.168.242:4000/play/a02i/index.m3u8
+NickJunior.uk, Nick Jr, http://168.232.168.242:4000/play/a02j/index.m3u8
+extensión, Nick SIM HD, http://168.232.168.242:4000/play/a02k/index.m3u8
+Nickelodeon.ar, Nickelodeon, http://168.232.168.242:4000/play/a02l/index.m3u8
+extensión, PICOSA, http://168.232.168.242:4000/play/a05a/index.m3u8
+extensión, PXTV, http://168.232.168.242:4000/play/a03v/index.m3u8
+Paramount.ar, Paramount, http://168.232.168.242:4000/play/a03g/index.m3u8
+ParamountChannel.fr, Paramount HD, http://168.232.168.242:4000/play/a02m/index.m3u8
+ext, Pasiones HD, http://168.232.168.242:4000/play/a02n/index.m3u8
+Playboy.ar,Playboy,http://168.232.168.242:4000/play/a04f/index.m3u8
+Extensión, QHUBO TV, http://168.232.168.242:4000/play/a006/index.m3u8
+Ext., RCN Novelas, http://168.232.168.242:4000/play/a02o/index.m3u8
+Extensión, RHEMA TV, http://168.232.168.242:4000/play/a02q/index.m3u8
+RTEspanol.es, RT NOTICIAS, http://168.232.168.242:4000/play/a05b/index.m3u8
+extensión, Repretel, http://168.232.168.242:4000/play/a02p/index.m3u8
+ext,SEMILLITAS,http://168.232.168.242:4000/play/a02s/index.m3u8
+extensión, SERTV - PAN, http://168.232.168.242:4000/play/a03n/index.m3u8
+SkySportUno.it, SKY SPORT, http://168.232.168.242:4000/play/a04g/index.m3u8
+SonyHD.ar,SONY HD,http://168.232.168.242:4000/play/a02t/index.m3u8
+SpaceHD.ar, ESPACIO HD, http://168.232.168.242:4000/play/a02u/index.m3u8
+SundanceChannel.pl, SUNDANCE HD, http://168.232.168.242:4000/play/a04l/index.m3u8
+extensión, SUYAPA TV, http://168.232.168.242:4000/play/a03o/index.m3u8
+extensión, Sembrador, http://168.232.168.242:4000/play/a02r/index.m3u8
+ext.,Sin límites,http://168.232.168.242:4000/play/a03x/index.m3u8
+ext.,Estrella TVE HD,http://168.232.168.242:4000/play/a02v/index.m3u8 
+StudioUniversalHD.cl, Estudio Universal HD, http://168.232.168.242:4000/play/a02w/index.m3u8
+SunChannel.ar, Canal del Sol, http://168.232.168.242:4000/play/a03s/index.m3u8
+ext., Enlace TBN, http://168.232.168.242:4000/play/a02x/index.m3u8
+TCM.ar,TCM,http://168.232.168.242:4000/play/a02y/index.m3u8
+extensión,TD+2 HD CR,http://168.232.168.242:4000/play/a059/index.m3u8
+extensión,TD+HD CR,http://168.232.168.242:4000/play/a03l/index.m3u8
+ext., TELECADENA CDN, http://168.232.168.242:4000/play/a002/index.m3u8
+ext., TELEMUNDO MIAMI, http://168.232.168.242:4000/play/a04j/index.m3u8
+extensión, DIEZ CDN, http://168.232.168.242:4000/play/a01c/index.m3u8
+extensión, TIGO HN, http://168.232.168.242:4000/play/a05c/index.m3u8
+TLNovelas.pe, TL NOVELAS, http://168.232.168.242:4000/play/a04q/index.m3u8
+TravelLivingChannel.ar, TLC, http://168.232.168.242:4000/play/a032/index.m3u8
+TNTHD.ar, TNT HD, http://168.232.168.242:4000/play/a033/index.m3u8
+ext.,Novelas TNT,http://168.232.168.242:4000/play/a052/index.m3u8
+TNTSeries.ar,Serie TNT HD,http://168.232.168.242:4000/play/a034/index.m3u8 
+extensión, TV Max - PAN, http://168.232.168.242:4000/play/a035/index.m3u8
+ext., TV ESTRELLA, http://168.232.168.242:4000/play/a05t/index.m3u8
+extensión, TVCOPAN, http://168.232.168.242:4000/play/a04k/index.m3u8
+TVChile.ar, TVChile, http://168.232.168.242:4000/play/a036/index.m3u8
+TelemundoEast.us, Telemundo HD, http://168.232.168.242:4000/play/a02z/index.m3u8
+ext., Telesistema RD, http://168.232.168.242:4000/play/a030/index.m3u8
+ext., Teleuniverso - RD, http://168.232.168.242:4000/play/a031/index.m3u8
+Extensión, Televida RD, http://168.232.168.242:4000/play/a03c/index.m3u8
+Extensión, Tigo Sports HD, http://168.232.168.242:4000/play/a04w/index.m3u8
+ext., Estados Unidos, http://168.232.168.242:4000/play/a04u/index.m3u8 
+Universal.uk, Universal, http://168.232.168.242:4000/play/a037/index.m3u8
+UnivisionEast.us, Univision HD, http://168.232.168.242:4000/play/a038/index.m3u8
+Venus.ar,VENUS,http://168.232.168.242:4000/play/a039/index.m3u8
+VH1Classic.eu,VH1 Classic,http://168.232.168.242:4000/play/a048/index.m3u8
+VH1UK.uk, VH1 HD, http://168.232.168.242:4000/play/a043/index.m3u8
+WarnerChannelHD.ar, WARNER HD, http://168.232.168.242:4000/play/a03a/index.m3u8
+extensión, ZOL TV HD, http://168.232.168.242:4000/play/a05s/index.m3u8
+Zoomoo.br, ZooMoo, http://168.232.168.242:4000/play/a03b/index.m3u8
+extensión, wendy, http://168.232.168.242:4000/play/a01e/index.m3u8
+ 
